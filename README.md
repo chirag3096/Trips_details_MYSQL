@@ -3,9 +3,6 @@
 ## Problem: 
 A ride-hailing platform needed to analyze trip operations, driver performance, payment behavior, and booking conversion rates to identify operational inefficiencies and improve platform performance.
 
-## Tools:
-MySQL · DDL/DML · Joins · Subqueries · Aggregate Functions · Views
-
 ## Database Structure
 Designed and managed a relational MySQL database with 5 interconnected tables:
 Table --  Key Fields
